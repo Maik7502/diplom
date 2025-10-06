@@ -1,12 +1,12 @@
 ## Diplom
 ____
-- [ ] Разработка службы сопровождения и технической поддержки веб-сервиса для оказания образовательных услуг.   
-    - [ ] тгбот
-    - [ ] будет прибыль
-    - [ ] питон и SQLite
-    - [ ] Будет база данных 
+- [X] Разработка службы сопровождения и технической поддержки веб-сервиса для оказания образовательных услуг.   
+    - [X] тгбот
+    - [X] будет прибыль
+    - [X] питон и SQLite
+    - [X] Будет база данных 
 - [ ] Диаграммы - должна быть ссылка на drawio, чтобы можно было редактировать
-    - [ ] Структура приложения https://drive.google.com/file/d/1KQcytU2J_tFDccUD8tlEA_PWcWeaFlm4/view?usp=sharing
+    - [X] Структура приложения https://drive.google.com/file/d/1KQcytU2J_tFDccUD8tlEA_PWcWeaFlm4/view?usp=sharing
           <br><img height="200" alt="Структура приложения" src="https://github.com/user-attachments/assets/6a1c151a-22df-4dba-a549-21b26a5e9583" />
     - [ ] Варианты использования Use Case
           <br><img height="300" alt="Use Case" src="https://github.com/user-attachments/assets/82a835c2-cf13-4f37-81e5-607dce887f77" />
